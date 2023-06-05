@@ -1,4 +1,4 @@
-package DZ3;
+package DZ4;
 public class L4 {
     public static void main(String[] args) {
 

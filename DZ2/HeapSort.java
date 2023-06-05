@@ -1,3 +1,5 @@
+package DZ2;
+
 // Реализация пирамидальной сортировки на Java
 public class HeapSort
 {
